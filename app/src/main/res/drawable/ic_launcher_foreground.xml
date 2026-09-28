@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Graduation Cap & Sparkle for LearnMate AI -->
+    <!-- Cap top diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,34 L82,47 L54,60 L26,47 Z" />
+    <!-- Cap skull base -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M36,52 L36,65 C36,73 72,73 72,65 L72,52 L54,61 Z" />
+    <!-- Tassel string & drop -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2.5"
+        android:pathData="M74,48 L80,56 L80,68" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M78,68 L82,68 L81,74 L79,74 Z" />
+    <!-- Sparkle Star (top right) -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M80,26 C80,30 84,30 84,30 C84,30 80,30 80,34 C80,30 76,30 76,30 C76,30 80,30 80,26 Z" />
+</vector>

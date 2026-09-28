@@ -1,0 +1,7 @@
+{
+  "name": "LearnMate AI",
+  "description": "Android AI tutor and personal assistant for students to ask anything, understand concepts, and learn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
